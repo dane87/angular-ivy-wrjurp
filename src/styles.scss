@@ -1,1 +1,6 @@
-/* Add application styles & imports to this file! */
+import './scss/variables';
+
+body {
+  background-color: $background-color;
+  font-family: Roboto;
+}
